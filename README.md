@@ -3,22 +3,20 @@ ULead Core integration/staging repository
 
 [![Build Status](https://travis-ci.org/uleadproject/ULead.svg?branch=master)](https://travis-ci.org/uleadproject/ULead)
 
-ULead is a cutting edge cryptocurrency, with many features not available in most other cryptocurrencies.
-- Anonymized transactions using zerocoin technology
+ULead is a cutting edge cryptocurrency which is to back ULead platform, with many features not available in most other cryptocurrencies.
 - 100% Proof of Stake 3.0 Consensus protocol, allowing very low transaction fees and energy expenditure, and staking rewards to all participants in the network
 - Masternode technology used to secure the network and provide the above features, each Masternode is secured
-  with collateral of 10K ULEAD
-- Decentralized blockchain voting utilizing Masternode technology to form a DAO. The blockchain will distribute monthly treasury funds based on successful proposals submitted by the community and voted on by the DAO.
+  with collateral of 1.5M ULEAD
 
-17.6M ulead was produced for swapping. 500k were mined 1-200 blocks to bring that amount to 18.1M ULEAD, the amount needed for the swap.
+2.54B ulead was produced for swapping. 2.54B were mined 1-200 blocks to bring the amount needed for the swap.
 
 Since then, the ULead repository has been rebaselined to show the fork relationship properly.
 
 ## BCT Thread ##
 
-https://bitcointalk.org/index.php?topic=2307909.0
+https://bitcointalk.org/index.php?topic=5083956
 
-Rebrand from KryptKoin [KTK] to ULead [ULEAD]
+Rebrand from Lemanum [LMN] to ULead [ULEAD]
 
 ## Coin Specs ##
 <table>
@@ -32,10 +30,13 @@ Rebrand from KryptKoin [KTK] to ULead [ULEAD]
 
 <table>
 <th>Block Height</th><th>Reward</th><th>Masternodes</th><th>Stakers</th>
-<tr><td><= 755,600</td><td>7.7 ULEAD</td><td>4.2 ULEAD</td><td>2.8 ULEAD</td></tr>
-<tr><td>755,601-1,043,999</td><td>5 ULEAD</td><td>2.7 ULEAD</td><td>1.8 ULEAD</td></tr>
-<tr><td>1,044,000-1,562,398</td><td>4 ULEAD</td><td>2.16 ULEAD</td><td>1.44 ULEAD</td></tr>
-<tr><td>> 1,562,399</td><td>3 ULEAD</td><td>1.62 ULEAD</td><td>1.08 ULEAD</td></tr>
+<tr><td><= 172800</td><td>880 ULEAD</td><td>572 ULEAD</td><td>308 ULEAD</td></tr>
+<tr><td>172801-698400</td><td>440 ULEAD</td><td>286 ULEAD</td><td>154 ULEAD</td></tr>
+<tr><td>698401-1224000</td><td>330 ULEAD</td><td>198 ULEAD</td><td>132 ULEAD</td></tr>
+<tr><td>1224001-1749600</td><td>220 ULEAD</td><td>132 ULEAD</td><td>88 ULEAD</td></tr>
+<tr><td>1749601-2275200</td><td>110 ULEAD</td><td>66 ULEAD</td><td>44 ULEAD</td></tr>
+<tr><td>2275201-2800800</td><td>55 ULEAD</td><td>33 ULEAD</td><td>22 ULEAD</td></tr>
+<tr><td>2800801-3326400</td><td>25 ULEAD</td><td>15 ULEAD</td><td>10 ULEAD</td></tr>
+<tr><td>3326401-3852000</td><td>10 ULEAD</td><td>6 ULEAD</td><td>4 ULEAD</td></tr>
+<tr><td>>3852000</td><td>5 ULEAD</td><td>3 ULEAD</td><td>2 ULEAD</td></tr>
 </table>
-
-The ULead development budget is up to a maximum of 1 ULEAD per block, paid out based on approved proposals as voted on by the ULead masternode owners through the community governance process.
