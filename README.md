@@ -7,6 +7,7 @@ ULead is a cutting edge cryptocurrency which is to back ULead platform, with man
 - 100% Proof of Stake 3.0 Consensus protocol, allowing very low transaction fees and energy expenditure, and staking rewards to all participants in the network
 - Masternode technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 1.5M ULEAD
+- ULEAD is strongly associated with ULead eLearning platform.
 
 2.54B ulead was produced for swapping. 2.54B were mined 1-200 blocks to bring the amount needed for the swap.
 
