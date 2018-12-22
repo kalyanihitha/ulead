@@ -2873,6 +2873,10 @@ https://www.transifex.com/ulead-project/ulead-project-translations</translation>
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>Os desenvolvedores do Phore Core</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>Os desenvolvedores do ULead Core</translation>
     </message>
@@ -3554,7 +3558,11 @@ https://www.transifex.com/ulead-project/ulead-project-translations</translation>
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do Phore Core</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
         <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do ULead Core</translation>
     </message>
     <message>

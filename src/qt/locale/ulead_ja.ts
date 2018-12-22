@@ -3442,6 +3442,10 @@ Immature: confirmed, but less than 3 mints of the same denomination after it was
         <translation>Dash コア開発者チーム</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>ULead コア開発者チーム</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>ULead コア開発者チーム</translation>
     </message>
@@ -4535,9 +4539,13 @@ for example: alertnotify=echo %%s | mail -s &quot;ULead Alert&quot; admin@foo.co
         <source>Copyright (C) 2014-%i The Dash Core Developers</source>
         <translation>Copyright (C) 2014-%i Dash コア開発者チーム</translation>
     </message>
+     <message>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i Phore コア開発者チーム</translation>
+    </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i ULead コア開発者チーム</translation>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i ULead コア開発者チーム</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5490,8 +5498,12 @@ for example: alertnotify=echo %%s | mail -s &quot;ULead Alert&quot; admin@foo.co
         <translation>Copyright (C) 2015-%i PIVX コア開発者チーム</translation>
     </message>
     <message>
-        <source>Copyright (C) 2017-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i ULead コア開発者チーム {2017-?}</translation>
+        <source>Copyright (C) 2017-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i Phore コア開発者チーム {2017-?}</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i ULead コア開発者チーム {2017-?}</translation>
     </message>
     <message>
         <source>Delete blockchain folders and resync from scratch</source>

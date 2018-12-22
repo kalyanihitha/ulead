@@ -3640,6 +3640,10 @@ Please be patient...</source>
         <translation>Dash Core 개발자</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>Phore Core 개발자</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>ULead Core 개발자</translation>
     </message>
@@ -4702,8 +4706,12 @@ rpcpassword=%s
         <translation>Copyright (C) 2014-%i The Dash Core 개발자들</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i The ULead Core 개발자</translation>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Phore Core 개발자</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i The ULead Core 개발자</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

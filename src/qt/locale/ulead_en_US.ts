@@ -3292,6 +3292,10 @@ https://www.transifex.com/ulead-project/ulead-project-translations</translation>
         <translation>The Dash Core developers</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>The Phore Core developers</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>The ULead Core developers</translation>
     </message>
@@ -4282,8 +4286,12 @@ for example: alertnotify=echo %%s | mail -s "ULead Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i The ULead Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Phore Core Developers</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i The ULead Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -2230,6 +2230,10 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>Phore core kehittäjät</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>ULead core kehittäjät</translation>
     </message>

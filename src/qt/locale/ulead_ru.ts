@@ -2946,6 +2946,10 @@ https://www.transifex.com/ulead-project/ulead-project-translations</translation>
         <translation>Разработчики Dash Core</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>Разработчики Phore Core</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>Разработчики ULead Core</translation>
     </message>
@@ -3239,8 +3243,12 @@ https://www.transifex.com/ulead-project/ulead-project-translations</translation>
         <translation>Copyright (C) 2014-%i Разработчики Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики ULead Core</translation>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i Разработчики Phore Core</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i Разработчики ULead Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>

@@ -3858,6 +3858,10 @@ Wees alsjeblieft geduldig...</translation>
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>De Phore Kernontwikkelaars</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>De ULead Kernontwikkelaars</translation>
     </message>
@@ -5866,8 +5870,12 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s &quot;ULead Alert&quot; admin@foo
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The ULead Core Developers</source>
-        <translation>Copyright (C) 2015-%i The ULead Kernontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The Phore Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Phore Kernontwikkelaars</translation>
+    </message>
+    <message>
+        <source>Copyright (C) 2018-%i The ULead Core Developers</source>
+        <translation>Copyright (C) 2018-%i The ULead Kernontwikkelaars</translation>
     </message>
 	   <message>
         <source>Delete blockchain folders and resync from scratch</source>

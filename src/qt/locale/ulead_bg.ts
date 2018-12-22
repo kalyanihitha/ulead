@@ -3635,6 +3635,10 @@ Please be patient...</source>
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
+        <source>The Phore Core developers</source>
+        <translation>Phore Core разработчици</translation>
+    </message>
+    <message>
         <source>The ULead Core developers</source>
         <translation>ULead Core разработчици</translation>
     </message>
